@@ -1,0 +1,38 @@
+h1 {
+  font-size: 30px;
+}
+
+p,
+li {
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+th {
+  background-color: #333;
+  padding: 10px;
+  color: #fff;
+}
+
+table,
+td {
+  text-align: center;
+  border: 1px solid #333;
+  font-size: 20px;
+}
+
+img {
+  padding: 10px;
+  height: 160px;
+  width: auto;
+}
+input
+
+button {
+  padding: 5px;
+  height: 40px;
+  width: 80px;
+  background-color: #333;
+  color: #fff;
+}
